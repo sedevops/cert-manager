@@ -1,3 +1,5 @@
+[![PushTrain build](http://localhost:90/badge/sedevops/cert-manager/20.svg)](https://api.github.com/repos/sedevops/cert-manager) [![Managed by PushTrain](http://localhost:90/badge-text/managed_by-PushTrain-F17E43.svg)](https://swiftengine.io)
+
 # cert-manager
 
 cert-manager is a Kubernetes add-on to automate the management and issuance of
